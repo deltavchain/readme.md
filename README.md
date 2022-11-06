@@ -7,7 +7,7 @@ DeltaVerse.chain is being explored as an interoperable addition to the expanding
 
 details to follow
 
-DeltaV THRUST
+<a href="https://deltav.exchange">DeltaV THRUST</a>
 
 
 deployment environment for thrustchain
