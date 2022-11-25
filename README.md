@@ -10,9 +10,20 @@ details to follow
 <a href="https://deltav.exchange">DeltaV THRUST</a>
 
 
-deployment environment for thrustchain
+deployment environment for thrustchain has three interoperable components
+
+deltavthrust.blockchain is composed of  
+
+EVM (Ethereum compatiable) Solidity = THRUST TNT earns THRUST VOTE
+
+WASM (Solana and Algorand compatiable) RUST and Python = DeltaV ABC
+
+DeltaVerse frictionless bridging
+
 
 design parameters
-bridging interoperability
-EVM (Ethereum compatiable) Solidity
-WASM (Solana and Algorand compatiable) RUST and Python
+DAO
+bridging
+interoperability
+EVM (Ethereum compatiable) Solidity THRUST TNT
+WASM (Solana and Algorand compatiable) RUST and Python DeltaV 
